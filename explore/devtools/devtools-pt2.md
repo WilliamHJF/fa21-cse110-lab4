@@ -1,0 +1,2 @@
+1. What was the bug? The bug is that the datatype of both num1 and num2 is string and not integer. When they add together, they don't do any math calculation and they would only combine together to become a new string. 
+2. To fix this problem, we need to change the datatype of num1 and num2 from string to integer. 
